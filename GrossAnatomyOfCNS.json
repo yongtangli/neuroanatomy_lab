@@ -1,0 +1,300 @@
+[
+      {
+      "num": "GrossAnatomyOfCNS-01",
+      "path": "GrossAnatomyOfCNS-01.png",
+      "answer": [
+        "A:Parahippocampal gyrus B:Uncus"
+      ],
+      "explanation": "A圈圈左側的縫為collateral sulcus，在其內側,B在 parahippocampal gyrus 內側",
+      "description": "A構造?B構造?"
+      },
+      {
+      "num": "GrossAnatomyOfCNS-02",
+      "path": "GrossAnatomyOfCNS-02.png",
+      "answer": [
+        "A:Anterior commissure B:Putamen"
+      ],
+      "explanation": "A位於前段，且是橫向連結",
+      "description": "A構造?B構造?"
+      },
+      {
+      "num": "GrossAnatomyOfCNS-03",
+      "path": "GrossAnatomyOfCNS-03.png",
+      "answer": [
+        "A:Denticulate ligament B:Dura mater"
+      ],
+      "explanation": "A位於 ventral, dorsal roolets 間",
+      "description": "A構造?B構造?"
+      },
+      {
+      "num": "GrossAnatomyOfCNS-04",
+      "path": "GrossAnatomyOfCNS-04.png",
+      "answer": [
+        "Cauda equina L2 以下"
+      ],
+      "explanation": "已經看到cauda equina了，所以是L2以下",
+      "description": "A構造?請問這是何種區段的脊髓?"
+      },
+      {
+      "num": "GrossAnatomyOfCNS-05",
+      "path": "GrossAnatomyOfCNS-05.png",
+      "answer": [
+        "A:Precentral gyrus B:Supramarginal gyrus C:Broca's area "
+      ],
+      "explanation": "B:lateral sulcus 延伸 C:Broca's area 包含 opercular 及 triangular",
+      "description": "A構造?B構造?C構造?"
+      },
+      {
+      "num": "GrossAnatomyOfCNS-06",
+      "path": "GrossAnatomyOfCNS-06.png",
+      "answer": [
+        "A:Superior temporal gyrus 聽覺 "
+      ],
+      "explanation": "A:lateral sulcus 正下方",
+      "description": "A構造?A和何功能有關?"
+      },
+      {
+      "num": "GrossAnatomyOfCNS-07",
+      "path": "GrossAnatomyOfCNS-07.png",
+      "answer": [
+        "A:Insula B:Septum pellucidum"
+      ],
+      "explanation": "B區隔lateral ventricle",
+      "description": "A構造?B構造?"
+      },
+      {
+      "num": "GrossAnatomyOfCNS-08",
+      "path": "GrossAnatomyOfCNS-08.png",
+      "answer": [
+        "A:Nodulus B:Middle cerebellar peduncle C:Tonsil"
+      ],
+      "explanation": "",
+      "description": "A構造?B構造?C構造?"
+      },
+      {
+      "num": "GrossAnatomyOfCNS-09",
+      "path": "GrossAnatomyOfCNS-09.png",
+      "answer": [
+        "A:Filum terminale  B:Dorsal root ganglion"
+      ],
+      "explanation": "A顏色跟cauda equina比較不一樣",
+      "description": "A構造?B構造?"
+      },
+      {
+      "num": "GrossAnatomyOfCNS-10",
+      "path": "GrossAnatomyOfCNS-10.png",
+      "answer": [
+        "A:Interthalamic adhesion B:Septum pellucidum"
+      ],
+      "explanation": "A連接左右thalamus",
+      "description": "A構造?B構造?"
+      },
+      {
+      "num": "GrossAnatomyOfCNS-11",
+      "path": "GrossAnatomyOfCNS-11.png",
+      "answer": [
+        "A:Globus pallidus B: Internal capsule"
+      ],
+      "explanation": "",
+      "description": "A構造?B構造?"
+      },
+      {
+      "num": "GrossAnatomyOfCNS-12",
+      "path": "GrossAnatomyOfCNS-12.png",
+      "answer": [
+        "A:Caudate nucleus (head) B: Internal capsule (anterior limb) "
+      ],
+      "explanation": "",
+      "description": "A構造?B構造?"
+      },
+      {
+      "num": "GrossAnatomyOfCNS-13",
+      "path": "GrossAnatomyOfCNS-13.png",
+      "answer": [
+        "A:Inferior colliculus B:Abducens nerve"
+      ],
+      "explanation": "",
+      "description": "A構造?B構造?"
+      },
+      {
+      "num": "GrossAnatomyOfCNS-14",
+      "path": "GrossAnatomyOfCNS-14.png",
+      "answer": [
+        "A:Primary fissure B:Posterior lobe of cerebellum "
+      ],
+      "explanation": "",
+      "description": "A溝槽名稱?B區域名稱?"
+      },
+      {
+      "num": "GrossAnatomyOfCNS-15",
+      "path": "GrossAnatomyOfCNS-15.png",
+      "answer": [
+        "A:Subthalamic nucleus "
+      ],
+      "explanation": "",
+      "description": "A構造?"
+      },
+      {
+      "num": "GrossAnatomyOfCNS-16",
+      "path": "GrossAnatomyOfCNS-16.png",
+      "answer": [
+        "A: Anterior commissure B:(body of) Fornix"
+      ],
+      "explanation": "",
+      "description": "A構造?B構造?"
+      },
+      {
+      "num": "GrossAnatomyOfCNS-17",
+      "path": "GrossAnatomyOfCNS-17.png",
+      "answer": [
+        "A: Thalamus B:Corpus callosum splenium"
+      ],
+      "explanation": "",
+      "description": "A構造?B構造?"
+      },
+      {
+      "num": "GrossAnatomyOfCNS-18",
+      "path": "GrossAnatomyOfCNS-18.png",
+      "answer": [
+        "A: Middle cerebellar peduncle B:Obex "
+      ],
+      "explanation": "",
+      "description": "A構造?B構造?"
+      },
+      {
+      "num": "GrossAnatomyOfCNS-19",
+      "path": "GrossAnatomyOfCNS-19.png",
+      "answer": [
+        "A: Trochlear nerve B: Medial eminence"
+      ],
+      "explanation": "",
+      "description": "A構造?B構造?"
+      },
+      {
+      "num": "GrossAnatomyOfCNS-20",
+      "path": "GrossAnatomyOfCNS-20.png",
+      "answer": [
+        "A:Precentral gyrus B:Supramarginal gyrus"
+      ],
+      "explanation": "",
+      "description": "A構造?B構造?"
+      },
+      {
+      "num": "GrossAnatomyOfCNS-21",
+      "path": "GrossAnatomyOfCNS-21.png",
+      "answer": [
+        "A: Superior temporal gyrus 聽覺"
+      ],
+      "explanation": "",
+      "description": "A構造?A和何功能相關?"
+      },
+      {
+      "num": "GrossAnatomyOfCNS-22",
+      "path": "GrossAnatomyOfCNS-22.png",
+      "answer": [
+        "A: cuneus 視覺"
+      ],
+      "explanation": "",
+      "description": "A構造?A和何功能相關?"
+      },
+      {
+      "num": "GrossAnatomyOfCNS-23",
+      "path": "GrossAnatomyOfCNS-23.png",
+      "answer": [
+        "A:Tectum (or corpora quadrigemina) B: Septum pellucidum"
+      ],
+      "explanation": "",
+      "description": "A構造?B構造?"
+      },
+      {
+      "num": "GrossAnatomyOfCNS-24",
+      "path": "GrossAnatomyOfCNS-24.png",
+      "answer": [
+        "A: Anterior cerebral artery B:Fornix"
+      ],
+      "explanation": "",
+      "description": "A構造?B構造?"
+      },
+      {
+      "num": "GrossAnatomyOfCNS-25",
+      "path": "GrossAnatomyOfCNS-25.png",
+      "answer": [
+        "Cingulate sulcus Fornix"
+      ],
+      "explanation": "",
+      "description": "凹溝名稱?箭頭構造名稱?"
+      },
+      {
+      "num": "GrossAnatomyOfCNS-26",
+      "path": "GrossAnatomyOfCNS-26.png",
+      "answer": [
+        "A:Primary fissure  B: Tonsil "
+      ],
+      "explanation": "",
+      "description": "A構造?B構造?"
+      },
+      {
+      "num": "GrossAnatomyOfCNS-27",
+      "path": "GrossAnatomyOfCNS-27.png",
+      "answer": [
+        "A:Parahippocampal gyrus B:Basilar artery"
+      ],
+      "explanation": "",
+      "description": "A構造?B構造?"
+      },
+      {
+      "num": "GrossAnatomyOfCNS-28",
+      "path": "GrossAnatomyOfCNS-28.png",
+      "answer": [
+        "A:Thalamus B:Hippocampus"
+      ],
+      "explanation": "注意：本片為 coronal section",
+      "description": "A構造?B構造?"
+      },
+      {
+      "num": "GrossAnatomyOfCNS-29",
+      "path": "GrossAnatomyOfCNS-29.png",
+      "answer": [
+        "Gracile tubercle (Clava) T6以下touch and proprioception"
+      ],
+      "explanation": "T6 以上 cuneate fasciculus  T6 以下 gracile fasciculus ",
+      "description": "構造名稱?此構造傳遞何種訊息?"
+      },
+      {
+      "num": "GrossAnatomyOfCNS-30",
+      "path": "GrossAnatomyOfCNS-30.png",
+      "answer": [
+        "A:Lingual gyrus B:Septum pellucidum"
+      ],
+      "explanation": "medial view",
+      "description": "A構造?B構造?"
+      },
+      {
+      "num": "GrossAnatomyOfCNS-31",
+      "path": "GrossAnatomyOfCNS-31.png",
+      "answer": [
+        "A:Central sulcus B:Lateral sulcus"
+      ],
+      "explanation": "lateral view",
+      "description": "A構造?B構造?"
+      },
+      {
+      "num": "GrossAnatomyOfCNS-32,
+      "path": "GrossAnatomyOfCNS-32.png",
+      "answer": [
+        " A:Hippocampus Fornix "
+      ],
+      "explanation": "",
+      "description": "A構造?將A訊息傳出的構造名稱?"
+      },
+      {
+      "num": "GrossAnatomyOfCNS-33,
+      "path": "GrossAnatomyOfCNS-33.png",
+      "answer": [
+        " A:Caudate nucleus B:Amygdala"
+      ],
+      "explanation": "",
+      "description": "A構造?B構造?"
+      },
+      
+]
