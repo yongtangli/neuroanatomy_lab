@@ -279,7 +279,7 @@
       "description": "A構造?B構造?"
       },
       {
-      "num": "GrossAnatomyOfCNS-32,
+      "num": "GrossAnatomyOfCNS-32",
       "path": "GrossAnatomyOfCNS-32.png",
       "answer": [
         " A:Hippocampus Fornix "
@@ -288,7 +288,7 @@
       "description": "A構造?將A訊息傳出的構造名稱?"
       },
       {
-      "num": "GrossAnatomyOfCNS-33,
+      "num": "GrossAnatomyOfCNS-33",
       "path": "GrossAnatomyOfCNS-33.png",
       "answer": [
         " A:Caudate nucleus B:Amygdala"
