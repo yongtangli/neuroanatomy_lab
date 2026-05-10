@@ -1,1 +1,49 @@
+[
+      {
+      "num": "medulla-01",
+      "path": "medulla-01.png",
+      "answer": [
+        "Anterolateral system 痛覺、溫度感覺、部分觸覺"
+      ],
+      "explanation": "",
+      "description": "A構造?A構造所傳遞的訊息?"
+      },
+      {
+      "num": "medulla-02",
+      "path": "medulla-02.png",
+      "answer": [
+        "A:Cuneate nucleus B:Arcuate nucleus inferior cerebellar peduncle "
+      ],
+      "explanation": "",
+      "description": "A構造?B構造，由何入小腦?"
+      },
+      {
+      "num": "medulla-03",
+      "path": "medulla-03.png",
+      "answer": [
+        "A:Solitary tract B:Inferior olivary nucleus cerebellum"
+      ],
+      "explanation": "",
+      "description": "A構造?B構造，傳入區域?"
+      },
+      {
+      "num": "medulla-04",
+      "path": "medulla-04.png",
+      "answer": [
+        "A:Gracile fasciculus B:Internal arcuate fibers"
+      ],
+      "explanation": "此為 level of sensory decussation，分開的 pyramid 與出現 gracile, cuneate nucleus ",
+      "description": "A構造?B構造?"
+      },
+      {
+      "num": "medulla-05",
+      "path": "medulla-05.png",
+      "answer": [
+        "A:Anterior spinocerebellar tract Superior cerebellar peduncle B:Medial lemniscus "
+      ],
+      "explanation": "Medial lemniscus在 medulla還是直的 ",
+      "description": "A構造?其神經纖維由何入小腦?B構造?"
+      },
+
+]
 
