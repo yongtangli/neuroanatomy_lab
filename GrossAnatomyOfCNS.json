@@ -296,5 +296,113 @@
       "explanation": "",
       "description": "A構造?B構造?"
       },
+      {
+      "num": "GrossAnatomyOfCNS-34",
+      "path": "GrossAnatomyOfCNS-34.png",
+      "answer": [
+        "A:Claustrum B:Internal capsule (posterior limb)"
+      ],
+      "explanation": "",
+      "description": "A構造?B構造?"
+      },
+      {
+      "num": "GrossAnatomyOfCNS-35",
+      "path": "GrossAnatomyOfCNS-35.png",
+      "answer": [
+        "A:Trochlear nerve B:Brachium of inferior colliculus"
+      ],
+      "explanation": "",
+      "description": "A構造?B構造?"
+      },
+      {
+      "num": "GrossAnatomyOfCNS-36",
+      "path": "GrossAnatomyOfCNS-36.png",
+      "answer": [
+        "A:Claustrum B:Caudate nucleus"
+      ],
+      "explanation": "",
+      "description": "A構造?B構造?"
+      },
+      {
+      "num": "GrossAnatomyOfCNS-37",
+      "path": "GrossAnatomyOfCNS-37.png",
+      "answer": [
+        "Uncus Amygdala"
+      ],
+      "explanation": "",
+      "description": "紅色範圍內構造?A內含什麼構造?"
+      },
+      {
+      "num": "GrossAnatomyOfCNS-38",
+      "path": "GrossAnatomyOfCNS-38.png",
+      "answer": [
+        "Calcarine sulcus Cuneus"
+      ],
+      "explanation": "",
+      "description": "紅色虛線構造?黃色範圍構造?"
+      },
+      {
+      "num": "GrossAnatomyOfCNS-39",
+      "path": "GrossAnatomyOfCNS-39.png",
+      "answer": [
+        "A:Middle cerebellar peduncle B:Flocculus "
+      ],
+      "explanation": "",
+      "description": "A構造?B構造?"
+      },
+      {
+      "num": "GrossAnatomyOfCNS-40",
+      "path": "GrossAnatomyOfCNS-40.png",
+      "answer": [
+        "A:Postcentral gyrus B:Inferior frontal sulcus "
+      ],
+      "explanation": "",
+      "description": "A構造?B構造?"
+      },
+      {
+      "num": "GrossAnatomyOfCNS-41",
+      "path": "GrossAnatomyOfCNS-41.png",
+      "answer": [
+        "A:Trochlear nerve B:Pyramidal decussation"
+      ],
+      "explanation": "",
+      "description": "A構造?B構造?"
+      },
+      {
+      "num": "GrossAnatomyOfCNS-42",
+      "path": "GrossAnatomyOfCNS-42.png",
+      "answer": [
+        "A: Gracile tubercle (Clava) B: Inferior colliculus"
+      ],
+      "explanation": "",
+      "description": "A構造?B構造?"
+      },
+      {
+      "num": "GrossAnatomyOfCNS-43",
+      "path": "GrossAnatomyOfCNS-43.png",
+      "answer": [
+        "A:Globus pallidus  B:(Genu of) Corpus callosum "
+      ],
+      "explanation": "",
+      "description": "A構造?B構造?"
+      },
+      {
+      "num": "GrossAnatomyOfCNS-44",
+      "path": "GrossAnatomyOfCNS-44.png",
+      "answer": [
+        "Inferior colliculus Medial geniculate body "
+      ],
+      "explanation": "",
+      "description": "A構造?A將訊息傳至何處?"
+      },
+      {
+      "num": "GrossAnatomyOfCNS-45",
+      "path": "GrossAnatomyOfCNS-45.png",
+      "answer": [
+        "A: Internal capsule posterior limb B:Hippocampus"
+      ],
+      "explanation": "",
+      "description": "A構造?B構造?"
+      },
       
 ]
