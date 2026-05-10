@@ -120,10 +120,10 @@
       "num": "medulla-14",
       "path": "medulla-14.png",
       "answer": [
-        "A:Posterior spinocerebellar tract B:Internal arcuate fiber touch and proprioception "
+        "A:Pyramid B:Inferior vestibular nucleus C:Inferior salivatory nucleus  D:Medial vestibular nucleus"
       ],
-      "explanation": "",
-      "description": "A構造?B構造?B構造功能與何相關?"
+      "explanation": "C:solitary tract 的內側 D:在 B內側",
+      "description": "A構造?B構造?C構造?D構造?"
       },
       
 
