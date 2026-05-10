@@ -44,6 +44,88 @@
       "explanation": "Medial lemniscus在 medulla還是直的 ",
       "description": "A構造?其神經纖維由何入小腦?B構造?"
       },
+      {
+      "num": "medulla-06",
+      "path": "medulla-06.png",
+      "answer": [
+        "A:Hypoglossal nucleus Movement of intrinsic muscles of tongue"
+      ],
+      "explanation": "在比較ventral medial 的是 hypoglossal; dorsal lateral 的是 dorsal motor nucleus of vagus 此為 level of inferior olivary nucleus",
+      "description": "A構造?A功能為何?"
+      },
+      {
+      "num": "medulla-07",
+      "path": "medulla-07.png",
+      "answer": [
+        "A:Dorsal motor nucleus of vagus nerve B:Inferior vestibular nucleus "
+      ],
+      "explanation": "A:位於sulcus limitans 的 medial side B:Inferior vestibular nucleus 的特色就是有豹紋。此為 level of inferior olivary nucleus ",
+      "description": "A構造?B構造?"
+      },
+      {
+      "num": "medulla-08",
+      "path": "medulla-08.png",
+      "answer": [
+        "A:Medial lemniscus 本體感覺訊息傳遞"
+      ],
+      "explanation": "",
+      "description": "A構造?A構造功能為何?"
+      },
+      {
+      "num": "medulla-09",
+      "path": "medulla-09.png",
+      "answer": [
+        "A:Pyramid Anterior spinal artery "
+      ],
+      "explanation": "",
+      "description": "A構造?A構造由哪條血管供給血液?"
+      },
+      {
+      "num": "medulla-10",
+      "path": "medulla-10.png",
+      "answer": [
+        "A: Anterolateral system 痛覺、溫度感覺、部分觸覺 "
+      ],
+      "explanation": "",
+      "description": "A構造?A構造所傳遞的訊息?"
+      },
+      {
+      "num": "medulla-11",
+      "path": "medulla-11.png",
+      "answer": [
+        "A:Olivocerebellar fibers Inferior cerebellar peduncle "
+      ],
+      "explanation": "",
+      "description": "A構造(深色線條)?經由何構造入小腦?"
+      },
+      {
+      "num": "medulla-12",
+      "path": "medulla-12.png",
+      "answer": [
+        "A:Central tegmental tract Inferior olivary nucleus "
+      ],
+      "explanation": "",
+      "description": "A構造?將訊息下傳至哪個核區?"
+      },
+      {
+      "num": "medulla-13",
+      "path": "medulla-13.png",
+      "answer": [
+        "A:Posterior spinocerebellar tract B:Internal arcuate fiber touch and proprioception "
+      ],
+      "explanation": "",
+      "description": "A構造?B構造?B構造功能與何相關?"
+      },
+      {
+      "num": "medulla-14",
+      "path": "medulla-14.png",
+      "answer": [
+        "A:Posterior spinocerebellar tract B:Internal arcuate fiber touch and proprioception "
+      ],
+      "explanation": "",
+      "description": "A構造?B構造?B構造功能與何相關?"
+      },
+      
 
 ]
 
